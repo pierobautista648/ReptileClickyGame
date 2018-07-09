@@ -1,0 +1,10 @@
+.wrapper {
+  background: lightgreen;
+  background-image: url('https://www.missprint.co.uk/wp-content/uploads/2017/01/MISP1218_CHIMES_Pistachio-600x1154.jpg');
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 30px;
+}

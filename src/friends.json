@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.pixabay.com/photo/2015/02/20/09/20/reptile-642970_1280.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.pixabay.com/photo/2017/02/06/12/34/reptile-2042906_1280.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.pixabay.com/photo/2016/05/05/02/34/gecko-1373165_1280.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.pixabay.com/photo/2017/09/09/18/39/lizard-2732989_1280.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.pixabay.com/photo/2017/06/21/13/37/lizard-2427248_1280.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.pixabay.com/photo/2016/08/29/04/49/perentie-1627480_1280.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.pixabay.com/photo/2017/03/04/17/39/animal-2116628_1280.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://static1.squarespace.com/static/50dbc631e4b00220dc730d50/t/553af66ee4b0ed6ca34d4d60/1429927535825/exes.jpg?format=500w",
+    "clicked": false
+  }
+]
+
+
+

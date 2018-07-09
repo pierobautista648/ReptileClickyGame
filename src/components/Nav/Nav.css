@@ -1,0 +1,21 @@
+nav {
+  width: 100%;
+  font-size: 3rem;
+  color:lightgreen;
+  margin-bottom: 50px;
+  background-color: green;
+  height: auto;
+}
+nav li {
+  display: inline-block;
+  padding: 26px 0;
+  width: 25%;
+  /* text-align: center; */
+}
+
+ul {
+  /* padding-left: 0px; */
+  display: flex;
+  align-items: center;
+}
+
